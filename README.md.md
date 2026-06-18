@@ -196,6 +196,8 @@ The notebook generates the following plots:
 ---
 
 ## 👤 Author
+Arif Bin Mushtaq , Msc Statistics ( University of Delhi )------- 
+Reach me at ----- arifbinmushtaqq@stats.du.ac.in
 
 Built as part of an end-to-end supervised learning exercise using the Pizza V1 dataset.
 
